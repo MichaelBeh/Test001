@@ -29,3 +29,11 @@ public string d
 		return d;
 	}
 }
+
+public string e
+{
+	if(e == "Michael")
+	{
+		return e;
+	}
+}
