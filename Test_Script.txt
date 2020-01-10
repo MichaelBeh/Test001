@@ -1,0 +1,7 @@
+public string a
+{
+	if(a == "Michael")
+	{
+		return a;
+	}
+}
