@@ -13,3 +13,11 @@ public string b
 		return b;
 	}
 }
+
+public string c
+{
+	if(c == "Michael")
+	{
+		return c;
+	}
+}
