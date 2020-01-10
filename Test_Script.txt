@@ -5,3 +5,11 @@ public string a
 		return a;
 	}
 }
+
+public string b
+{
+	if(b == "Michael")
+	{
+		return b;
+	}
+}
