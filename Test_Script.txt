@@ -45,3 +45,11 @@ public string f
 		return f;
 	}
 }
+
+public string g
+{
+	if(g == "Michael")
+	{
+		return g;
+	}
+}
